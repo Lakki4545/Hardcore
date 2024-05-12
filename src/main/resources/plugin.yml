@@ -1,0 +1,4 @@
+name: SPHardcoreL
+version: '${project.version}'
+main: org.lakki.sphardcorel.SPHardcoreL
+api-version: '1.20'

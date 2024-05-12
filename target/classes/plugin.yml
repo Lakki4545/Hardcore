@@ -1,0 +1,4 @@
+name: SPHardcoreL
+version: '1.20.1'
+main: org.lakki.sphardcorel.SPHardcoreL
+api-version: '1.20'
